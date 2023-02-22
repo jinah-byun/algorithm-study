@@ -17,10 +17,10 @@ level1풀이를 바탕으로 기초 알고리즘 지식 습득 및 구현 능력
 # Commit Convention
 
 **접두어**
-* solved : 통과
+* solved : 통과 O
 * refactor : 리뷰 및 풀이 참조 후 효율성 관련 반영
-* unsolved : 못 품
-* study : 스터디로 배우거나 알게 된 알고리즘 및 문제 풀이 지식 기록
+* unsolved : 통과 X
+* study : 새로 알게된 문제 풀이 지식 기록
 
 
 
