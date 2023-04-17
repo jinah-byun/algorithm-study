@@ -1,3 +1,5 @@
+// 8day
+
 function solution(numbers, num1, num2) {
   let cnt = num1;
   let answer = [];
@@ -7,3 +9,5 @@ function solution(numbers, num1, num2) {
   }
   return answer;
 }
+
+// 9day
