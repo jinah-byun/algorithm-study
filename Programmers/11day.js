@@ -61,3 +61,9 @@ function solution(n) {
   }
   return answer;
 }
+
+//3. 최대값 만들기
+function solution(numbers) {
+  const sortedNumbers = numbers.sort((a, b) => b - a);
+  return sortedNumbers[0] * sortedNumbers[1];
+}
